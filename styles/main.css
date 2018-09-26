@@ -27,6 +27,7 @@ a:hover {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  transition: 0.3s;
 }
 .dropdown {
   float: left;
@@ -40,6 +41,7 @@ a:hover {
   padding: 14px 16px;
   background-color: red;
   margin: 0;
+  transition: 0.3s;
 }
 .nav a:hover, .dropdown:hover .dropbtn {
   background-color: #b30000;
@@ -59,6 +61,7 @@ a:hover {
   text-decoration: none;
   display: block;
   text-align: left;
+  transition: 0.3s;
 }
 .dropdown-content a:hover {
   background-color: #b30000;
